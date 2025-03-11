@@ -1,2 +1,2 @@
-# grasp-anything
-grasp-anything dataset website
+# RoboDesign1M
+RoboDesign1M dataset website
