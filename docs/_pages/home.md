@@ -4,13 +4,13 @@ permalink: /
 hidden: true
 header:
   overlay_color: "#3e403d"
-  overlay_filter: "0.6"
+  overlay_filter: "0.4"
   overlay_image: /assets/images/home-teaser.svg
   actions:
     - label: "<i class='fas fa-download'></i> Download"
       url: "/docs/download/"
 excerpt: >
-  Robot Design Understanding <br/>
+  Large-scale dataset for robot design understanding <br/>
 feature_row:
   - image_path: /assets/images/home-teaser.svg
     alt: "diversed"

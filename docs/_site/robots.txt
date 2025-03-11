@@ -1,1 +1,1 @@
-Sitemap: http://localhost:4000/robodesign1m/sitemap.xml
+Sitemap: http://localhost:4000/robotdesign1m/sitemap.xml
