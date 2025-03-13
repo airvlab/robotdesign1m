@@ -1,16 +1,18 @@
-# Nerfies
+# RoboDesign1M
 
-This is the repository that contains source code for the [Nerfies website](https://nerfies.github.io).
+This is the repository that contains source code for the [RoboDesign1M website](https://airvlab.github.io/robotdesign1m/).
 
-If you find Nerfies useful for your work please cite:
+If you find RoboDesign1M useful for your work please cite:
 ```
-@article{park2021nerfies
-  author    = {Park, Keunhong and Sinha, Utkarsh and Barron, Jonathan T. and Bouaziz, Sofien and Goldman, Dan B and Seitz, Steven M. and Martin-Brualla, Ricardo},
-  title     = {Nerfies: Deformable Neural Radiance Fields},
-  journal   = {ICCV},
-  year      = {2021},
+@misc{le2025robodesign1m,
+  author    = {Le, Tri and Nguyen, Toan and Tran, Quang and Nguyen, Quang and Huang, Baoru and Nguyen, Hoan and Vu, Minh Nhat and D.Ta, Tung and Nguyen, Anh},
+  title     = {RoboDesign1M: A Large-scale Dataset for Robot Design Understanding},
+  year={2025},
+  eprint={2503.06796},
+  archivePrefix={arXiv},
+  url={https://arxiv.org/abs/2503.06796},
 }
 ```
 
-# Website License
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+# Acknowledgement
+We borrow the page template from [nerfies website](https://github.com/nerfies/nerfies.github.io). Special thanks to them!
